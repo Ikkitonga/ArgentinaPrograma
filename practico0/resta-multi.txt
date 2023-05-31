@@ -1,0 +1,10 @@
+
+
+Ejercicio "resta.js"
+
+- El resultado es 8.
+
+
+Ejercicio "multiplicacion.js"
+
+- El resultado es 204.
